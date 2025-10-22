@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "circle.h": "c",
+        "stdlib.h": "c",
+        "shapes.h": "c",
+        "stdio.h": "c",
+        "svg.h": "c",
+        "stdbool.h": "c"
+    }
+}
